@@ -1,1 +1,7 @@
-#testing ipad edit
+function FunctionName {
+    param (
+        OptionalParameters
+    )
+    #testing ipad edit
+    
+}
